@@ -1,6 +1,9 @@
 /*  your css code here. If applicable */
-.a,b{
+.a{
 	background-color : #eee;
 	font color :   #00f;
 }
-
+.b{
+	background-color : #eee;
+	font color :   #00f;
+}
